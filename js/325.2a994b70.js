@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkprofile"]=self["webpackChunkprofile"]||[]).push([[325],{1325:function(r,e,c){c.r(e),c.d(e,{default:function(){return l}});var n=c(3396);const a=r=>((0,n.dD)("data-v-297c4bf4"),r=r(),(0,n.Cn)(),r),s={class:"error-page"},t=a((()=>(0,n._)("div",{class:"error-code"},"404",-1))),o=[t];function d(r,e){return(0,n.wg)(),(0,n.iD)("div",s,o)}var f=c(89);const u={},i=(0,f.Z)(u,[["render",d],["__scopeId","data-v-297c4bf4"]]);var l=i}}]);
+//# sourceMappingURL=325.2a994b70.js.map
